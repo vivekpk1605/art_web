@@ -91,9 +91,7 @@ a {
   min-height: 78vh;
   display: grid;
   align-items: center;
-  background:
-    linear-gradient(100deg, rgba(255, 253, 249, 0.94) 0%, rgba(255, 253, 249, 0.78) 45%, rgba(255, 253, 249, 0.55) 100%),
-    url("cover-mascot.png") center/cover no-repeat;
+  background: linear-gradient(100deg, rgba(255, 253, 249, 0.94) 0%, rgba(255, 253, 249, 0.78) 45%, rgba(255, 253, 249, 0.55) 100%);
 }
 
 .hero-overlay {
