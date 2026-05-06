@@ -93,7 +93,7 @@ a {
   align-items: center;
   background:
     linear-gradient(100deg, rgba(255, 253, 249, 0.94) 0%, rgba(255, 253, 249, 0.78) 45%, rgba(255, 253, 249, 0.55) 100%),
-    url("assets/cover-mascot.png") center/cover no-repeat;
+    url("cover-mascot.png") center/cover no-repeat;
 }
 
 .hero-overlay {
